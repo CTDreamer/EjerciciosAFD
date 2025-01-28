@@ -33,5 +33,5 @@ El repositorio incluye:
 ## **Cómo usar este repositorio**
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/EjerciciosAFD.git
+   git clone https://github.com/CTDreamer/EjerciciosAFD.git
 
